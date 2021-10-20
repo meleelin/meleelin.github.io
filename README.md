@@ -15,8 +15,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-[login](https://meleelin.github.io/login/)
-
 - Bulleted
 - List
 
@@ -27,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+[login](https://meleelin.github.io/login/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
