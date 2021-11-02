@@ -19,7 +19,7 @@
 ![](https://i.imgur.com/qWYRx4I.png)
 
 ## RWD 網頁
-嘗試刻一個旅遊網站，製作 RWD 響應式網頁。
+嘗試刻一個旅遊網站，並製作 RWD 響應式網頁。
 [點我觀看](https://meleelin.github.io/responsive-web-design-example/)
 | [Github 程式碼](https://github.com/meleelin/responsive-web-design-example)
 ![](https://i.imgur.com/Bxwzzzo.jpg)
