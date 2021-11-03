@@ -6,6 +6,13 @@ MELEEs 整合網路平台高人氣的食譜料理分享者的精選食譜、網�
 [Github 程式碼](https://github.com/gemini497586/melees)
 ![](https://i.imgur.com/uOY2Ig4.jpg)
 
+## 股票查詢程式
+
+抓證交所台股資料並寫回資料庫，並串接後端 API 取得資料。
+
+[Github 程式碼](https://github.com/meleelin/stock-show)
+![](https://i.imgur.com/4457Nxw.png)
+
 ## 3d-Model
 使用 React.js + three.js 完成一個 Minecraft 小遊戲
 
