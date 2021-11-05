@@ -13,8 +13,12 @@ MELEEs 整合網路平台高人氣的食譜料理分享者的精選食譜、網�
 [Github 程式碼](https://github.com/meleelin/stock-show)
 ![](https://i.imgur.com/4457Nxw.png)
 
+## furniture
+利用 react.js + three.js 完成 360度觀看家具模型
+[線上觀看](https://cfosr.csb.app/)
+
 ## 3d-Model
-使用 React.js + three.js 完成一個 Minecraft 小遊戲
+使用 React.js + three.js 完成一個 Minecraft 場景
 
 [線上觀看](https://codesandbox.io/s/kind-silence-e7nq8)
 | [Github 程式碼](https://github.com/meleelin/3d-model)
