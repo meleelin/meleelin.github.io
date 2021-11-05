@@ -15,7 +15,8 @@ MELEEs 整合網路平台高人氣的食譜料理分享者的精選食譜、網�
 
 ## furniture
 利用 react.js + three.js 完成 360度觀看家具模型
-[線上觀看](https://cfosr.csb.app/)
+
+[線上觀看](https://codesandbox.io/s/floral-violet-cfosr)
 ![](https://i.imgur.com/ZKWmxTd.jpg)
 
 ## 3d-Model
