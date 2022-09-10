@@ -22,11 +22,11 @@
     <h1>測試用</h1>
     <div class="box"></div>
     <script type="text/javascript">
-      let box = document.querySelector(".box")
-      box.addEventListener("click",()=>{
-        window.open(`https://www.facebook.com/sharer/sharer.php?u=https://meleelin.github.io&quote=asdasd`);
-
-      })
+      let box = document.querySelector(".box");
+      box.addEventListener("click", (e) => {
+        e.preventDefault();
+        window.open("https://www.facebook.com/sharer/sharer.php?u=https://meleelin.github.io&hashtag=%23jkashdkjashdk");
+      });
       // if (name === "line") {
       //   window.open(`https://social-plugins.line.me/lineit/share?url=https://meleelin.github.io&text=gggggg`);
       // } else if (name === "facebook") {
