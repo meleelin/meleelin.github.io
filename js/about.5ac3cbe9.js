@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkmeleelin_github_io"]=self["webpackChunkmeleelin_github_io"]||[]).push([[443],{7381:function(e,n,u){u.r(n),u.d(n,{default:function(){return h}});var i=u(3396);const t={class:"about"},a=(0,i._)("h1",null,"This is an about page",-1),r=[a];function s(e,n){return(0,i.wg)(),(0,i.iD)("div",t,r)}var l=u(89);const c={},o=(0,l.Z)(c,[["render",s]]);var h=o}}]);
-//# sourceMappingURL=about.5ac3cbe9.js.map
